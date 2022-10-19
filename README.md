@@ -9,7 +9,11 @@ I developed this Professional-README-Generator .I am studying web development an
 You need to have vs code installed and then just clone this repository into your machine.
 ## Usage
 Here is the link to a video which demonstrates how to use this read me generator.
+
 https://drive.google.com/file/d/1JazlwZYySl_Cq7dXLCIMO3EOYdtd-LHH/view?usp=sharing
+
+This is a screenshot of Weather Dashboard  -
+
 ## credits
 https://developer.mozilla.org/en-US/
 
