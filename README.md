@@ -10,8 +10,7 @@ You need to have vs code installed and then just clone this repository into your
 ## Usage
 Here is the link to a video which demonstrates how to use this read me generator.
 
-https://drive.google.com/file/d/1JazlwZYySl_Cq7dXLCIMO3EOYdtd-LHH/view?usp=sharing
-
+https://youtu.be/Moxu77GqDs0
 This is a screenshot of Professional-README-Generator  -
 <img width="986" alt="Screen Shot 2022-10-19 at 11 45 41 pm" src="https://user-images.githubusercontent.com/110076459/196695794-80d573a3-b7c2-4757-babb-1edded3ab251.png">
 
